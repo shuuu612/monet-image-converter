@@ -1,0 +1,16 @@
+# Conversion Folder 
+convert
+original
+
+# Image Data Folder
+元データ
+変換後データ
+
+# VsCode Setting Folder
+.vscode
+
+# Python Varsion file
+.python-version
+
+# memo
+memo.txt
